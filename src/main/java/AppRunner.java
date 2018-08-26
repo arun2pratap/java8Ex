@@ -1,7 +1,7 @@
 
-import criteria.SearchCriteria;
-import function.FunctionExample;
-import predicate.PredicateExample;
+import com.criteria.SearchCriteria;
+import com.function.FunctionExample;
+import com.predicate.PredicateExample;
 
 import java.util.function.Function;
 import java.util.function.Predicate;

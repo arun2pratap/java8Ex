@@ -1,4 +1,4 @@
-package predicate;
+package com.predicate;
 
 import java.util.function.Predicate;
 
